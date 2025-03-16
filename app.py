@@ -1,2 +1,2 @@
 print("Successfully deployed Jenkins Project")
-print("Changes made successfully")
+prin("Changes made successfully")
